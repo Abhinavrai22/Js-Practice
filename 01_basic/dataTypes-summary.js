@@ -5,7 +5,7 @@
 // Primitive
 
 // number => number
-// string => string
+// string => object
 // bigInt => number
 // boolean => boolean
 // null => object
