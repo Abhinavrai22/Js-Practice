@@ -1,2 +1,2 @@
 # Js-Practice
-All the javascript code for prsctice
+All the javascript code for practice
