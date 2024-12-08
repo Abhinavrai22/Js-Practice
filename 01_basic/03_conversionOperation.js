@@ -41,15 +41,15 @@
 // console.log(2%2);
 
 
-let str1= "hello"
-let str2 = " Abhinav"
-console.log(str1+str2);
+// let str1= "hello"
+// let str2 = " Abhinav"
+// console.log(str1+str2);
 
 
-console.log("1"+2);
-console.log(1+"2");
-console.log("1"+2+2);
-console.log(1+2+"2");
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log("1"+2+2);
+// console.log(1+2+"2");
 
 
 
